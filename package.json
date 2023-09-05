@@ -1,5 +1,6 @@
 {
   "name": "covidtracker",
+  "homepage": "https://udaybute.github.io/covidtracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
